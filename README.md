@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ruslan Lyubimov
-- 👀 I’m interested in JavaScript, NodeJS, React
+- 👀 I’m interested in JavaScript, NodeJS, Python, Django 
 - 🌱 I’m currently learning JavaScript frameworks
 - 💞️ I’m looking for a job
 - 📫 How to reach me telegram(@KeepCalm1111)
