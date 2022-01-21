@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript, NodeJS, Python, Django 
 - 🌱 I’m currently learning JavaScript frameworks
 - 💞️ I’m looking for a job
-- 📫 How to reach me telegram(@KeepCalm1111)
+- 📫 How to reach me telegram(@VoymaMan)
 
 <!---
 Lyubimov-Ruslan2/Lyubimov-Ruslan2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
