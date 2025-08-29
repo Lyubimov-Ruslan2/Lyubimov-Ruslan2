@@ -33,4 +33,4 @@ Currently learning, building projects, and looking for my first role in the data
 
 ## 🚀 Open to Opportunities  
 Looking for internship or entry-level opportunities in **Data Analytics**.  
-📩 Reach me at: [Email](ruslanlyubimov60@gmail.com)  
+📩 Reach me at: ruslanlyubimov60@gmail.com  
