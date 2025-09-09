@@ -1,36 +1,44 @@
 # 👋 Hi, I'm Ruslan
 
-I’m a **Junior Data Analyst**, transitioning from **Fullstack Development** into the world of data analytics.  
-Currently learning, building projects, and looking for my first role in the data field.  
+I’m a **Software Engineer (Fullstack)** with experience in building web applications, microservices, and automation solutions.
+Worked on international projects, developed both **frontend and backend**, integrated cloud services, and collaborated with cross-functional teams to deliver secure and scalable solutions.
 
 ---
 
-## 🔍 About Me  
-- 🎯 Goal: grow as a **Data Analyst**  
-- 💻 Background: experience in **Fullstack development**  
-- 📊 Interests: **working with data**, **data visualization**, **ETL & data pipelines** 
+## 🔍 About Me
+
+* 🌍 Experience in **global projects** (e.g. Burberry, ReportPortal)
+* 💻 Strong background in **Fullstack development** (React, Node.js, APIs, AWS)
+* 🔐 Focus on **collaboration, documentation, and security practices**
+* 🤝 Skilled in **teamwork, mentoring, and interviewing**
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Skills
 
-**Programming Languages:**  
-- SQL (PostgreSQL, SQLite)  
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
+**Programming & Development:**
 
-**Tools & Platforms:**  
-- Excel (including Pivot Tables, Power Query, DAX)  
-- Power BI (data visualization & dashboards)  
-- Git | GitHub  
+* JavaScript | TypeScript 
+* SQL (PostgreSQL)
+* React | Node.js | Express
+* REST APIs | Microservices
 
-**Other Concepts:**  
-- ETL processes  
-- Data Modeling  
-- REST APIs  
+**Cloud & Tools:**
 
+* AWS (backend services, email automation, deployment)
+* Git | GitHub | Docker
+* MS Teams API & plugin development
+
+**Other Experience:**
+
+* 📑 Collaboration with Security teams to prevent risks & improve documentation
+* 👥 Resource Manager: guided and supported engineers within my team
+* 🧑‍💻 Conducted 30+ technical interviews for engineering roles
 
 ---
 
-## 🚀 Open to Opportunities  
-Looking for internship or entry-level opportunities in **Data Analytics**.  
-📩 Reach me at: ruslanlyubimov60@gmail.com  
+## 🚀 Open to Opportunities
+
+Open to **Fullstack / Backend Developer** roles where I can apply my experience in **web developmen and team collaboration**.
+
+📩 Reach me at: **[ruslanlyubimov60@gmail.com](mailto:ruslanlyubimov60@gmail.com)**
